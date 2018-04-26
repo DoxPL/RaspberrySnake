@@ -5,4 +5,6 @@ Game controls:
 - second block: go down
 - third block: go left
 - fourth block: go to the right
+
+
 Use the sword and right click on the glass block to move the snake.
