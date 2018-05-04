@@ -8,4 +8,5 @@ Game controls:
 
 
 Use the sword and right click on the glass block to move the snake.
+
 Video presentation: https://www.youtube.com/watch?v=47Zc3jpiPJs
